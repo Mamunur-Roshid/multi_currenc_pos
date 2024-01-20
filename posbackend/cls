@@ -1,0 +1,83 @@
+[33mcommit 8fb19d0c6aad694fbab06a57dd31633bf8829a16[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Md Jakirul Islam <jakirul.stu@gmail.com>
+Date:   Tue Jul 5 03:13:06 2022 +0600
+
+    Brand entry page design
+
+[33mcommit b69bce9ecafc2ff3c1a768728b96a12587ea8adc[m
+Author: Md Jakirul Islam <jakirul.stu@gmail.com>
+Date:   Tue Jul 5 02:48:23 2022 +0600
+
+    Unit entry curd completed
+
+[33mcommit 90395304b457b25d1591d554d52acf0e5ac68f5a[m
+Author: Md Jakirul Islam <jakirul.stu@gmail.com>
+Date:   Tue Jul 5 02:20:13 2022 +0600
+
+    Unit page design modified
+
+[33mcommit f8e7cf1856975ccd2943d69eb95d3f240882894d[m
+Author: Md Jakirul Islam <jakirul.stu@gmail.com>
+Date:   Tue Jul 5 02:12:39 2022 +0600
+
+    Delete confirm dialog component design
+
+[33mcommit 8d6274defc87d684bc809fdd25de41de860a8ffe[m
+Author: Md Jakirul Islam <jakirul.stu@gmail.com>
+Date:   Tue Jul 5 01:25:04 2022 +0600
+
+    Area entry curd completed
+
+[33mcommit fadcb966cafbaff649f76e45621c0a07baad8757[m
+Author: Md Jakirul Islam <jakirul.stu@gmail.com>
+Date:   Tue Jul 5 01:08:25 2022 +0600
+
+    Area entry page design modified
+
+[33mcommit 55eff7711f18d2d1827ac360102f8ba13df0e0c3[m
+Author: Md Jakirul Islam <jakirul.stu@gmail.com>
+Date:   Tue Jul 5 00:51:19 2022 +0600
+
+    Clone project and setup invirontment
+
+[33mcommit 88299161aa73761cf5f5a0510c71748e201a351d[m
+Author: Azharul Islam Masud <67600747+masudhajari@users.noreply.github.com>
+Date:   Sun Jul 3 01:28:24 2022 +0600
+
+    after git clone
+
+[33mcommit b67cb21279806f3efa4963426cfb0afa32c8dc63[m
+Author: Md Jakirul Islam <jakirul.stu@gmail.com>
+Date:   Thu Jun 30 01:42:39 2022 +0600
+
+    Unit entry page design
+
+[33mcommit 8f4e39bd1210986aba8b407068f82b5590f8044c[m
+Author: Md Jakirul Islam <jakirul.stu@gmail.com>
+Date:   Thu Jun 30 01:08:55 2022 +0600
+
+    Remove extra file folder
+
+[33mcommit 5d5c21900cc088bf632378981a1477641a917bb0[m
+Author: Md Jakirul Islam <jakirul.stu@gmail.com>
+Date:   Wed Jun 29 03:32:38 2022 +0600
+
+    Area component design
+
+[33mcommit 23dc67acc74c4322e556515fa05c8c721156ff63[m
+Author: Md Jakirul Islam <jakirul.stu@gmail.com>
+Date:   Wed Jun 29 02:07:32 2022 +0600
+
+    Layout page chage login user info section
+
+[33mcommit f2671d134b891bc913b64f4bdf2d6d13972f3956[m
+Author: Md Jakirul Islam <jakirul.stu@gmail.com>
+Date:   Wed Jun 29 01:35:44 2022 +0600
+
+    User login and set token & protected login & dashboard unauthorized user
+
+[33mcommit c6ad9a9334b3aad0941e15bce945efc4bcce20ce[m
+Author: Md Jakirul Islam <jakirul.stu@gmail.com>
+Date:   Tue Jun 28 01:34:52 2022 +0600
+
+    Inventory management software setup & layout design

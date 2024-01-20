@@ -1,0 +1,49 @@
+{
+  "name": "pos-software",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "postbuild": "vue-cli-service build && md dist\\resources\\views 2>NUL & copy dist\\index.html dist\\resources\\views\\index.blade.php"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-barcode": "^1.0.1",
+    "apexcharts": "^3.36.3",
+    "axios": "^0.20.0",
+    "canvas-datagrid": "^0.4.6",
+    "core-js": "^3.6.5",
+    "fuse.js": "^6.6.2",
+    "localforage": "^1.10.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "sweetalert": "^2.1.2",
+    "tabler-icons": "^1.35.0",
+    "vue": "^2.6.11",
+    "vue-apexcharts": "^1.6.2",
+    "vue-google-charts": "^0.3.3",
+    "vue-router": "^3.2.0",
+    "vue-virtual-scroller": "^1.1.2",
+    "vuetify": "^2.3.10",
+    "vuex": "^3.4.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "^4.5.7",
+    "axios": "^0.18.0",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.0",
+    "vue-cli-plugin-axios": "0.0.4",
+    "vue-cli-plugin-vuetify": "~2.0.7",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.9.2"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
